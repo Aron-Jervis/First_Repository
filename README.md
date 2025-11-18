@@ -1,3 +1,3 @@
 # First_Repository
 This is my first repository <br>
-Author - Aron Jervis Olaprath
+Author - Aron Jervis Olaprath (AJ7)
